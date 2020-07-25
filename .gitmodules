@@ -1,0 +1,3 @@
+[submodule "Text Detection With OCR"]
+	path = Text Detection With OCR
+	url = https://github.com/PhilippeMitch/Text_detection.git
